@@ -1,2 +1,2 @@
-# Deep-Learning-w_MATLAB
+# DEEP LEARNING w/_MATLAB
 MATLAB Repo for DL/ML/AI
